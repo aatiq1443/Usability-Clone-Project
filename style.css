@@ -105,13 +105,14 @@ a:hover {
 }
 
 .myflex {
-    background-color: black;
+    background-color: white;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     height: 200px;
     align-items: center;
+    text-align: center;
 }
 
 .myflex>div {
